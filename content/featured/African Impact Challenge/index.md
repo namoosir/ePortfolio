@@ -2,7 +2,7 @@
 date: '2'
 title: 'African Impact Challenge'
 cover: './demo.png'
-github: 'https://github.com/namoosir/project-mjaarns'
+github: 'https://github.com/namoosir/African-Impact-Challenge'
 external: null
 tech:
   - React
